@@ -1,1 +1,3 @@
 test texti var burda bi şeyler.
+
+gitignore oldu mu?
