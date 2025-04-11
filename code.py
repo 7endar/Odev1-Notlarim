@@ -1,4 +1,4 @@
-# Fortune Teller
+# Fortune Teller Application
 
 def fortune_teller(number):
     match number:
