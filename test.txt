@@ -1,5 +1,0 @@
-test texti var burda bi şeyler.
-
-gitignore oldu mu?
-
-python kodunu da ekledik.
